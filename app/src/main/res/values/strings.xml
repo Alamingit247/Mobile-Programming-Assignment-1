@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pizza House Assignment</string>
+    <string-array name="pizza_options">
+        <item>Select Pizza Style</item>
+        <item>Make your own pizza</item>
+        <item>Feast Pizza</item>
+    </string-array>
+
+    <string-array name="pizza_type_options">
+        <item>Select Pizza</item>
+        <item>Metza</item>
+        <item>Hawain</item>
+        <item>Exraveganza</item>
+        <item>Pepperoni</item>
+        <item>Veggie</item>
+    </string-array>
+</resources>
